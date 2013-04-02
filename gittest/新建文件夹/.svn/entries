@@ -1,0 +1,40 @@
+8
+
+dir
+89
+http://192.168.1.2:8080/svn/tractest/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9
+http://192.168.1.2:8080/svn/tractest
+
+
+
+2013-01-31T09:07:39.671875Z
+81
+yanyan.liu
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+97d5266e-60a2-9940-bab1-09c7e3f3e764
+
+asd.txt
+file
+
+
+
+
+2013-04-02T07:48:35.000000Z
+f67c2bcbfcfa30fccb36f72dca22a817
+2013-01-31T09:07:39.671875Z
+81
+yanyan.liu
+
