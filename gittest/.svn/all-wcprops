@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 26
-/svn/tractest/!svn/ver/89/
+/svn/tractest/!svn/ver/90/
 END
 test1.txt
 K 25
 svn:wc:ra_dav:version-url
 V 35
-/svn/tractest/!svn/ver/71/test1.txt
+/svn/tractest/!svn/ver/90/test1.txt
 END
 test2.txt
 K 25
