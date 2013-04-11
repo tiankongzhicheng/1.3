@@ -1,19 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 26
-/svn/tractest/!svn/ver/96/
+/svn/tractest/!svn/ver/98/
 END
 test1.txt
 K 25
 svn:wc:ra_dav:version-url
 V 35
-/svn/tractest/!svn/ver/90/test1.txt
+/svn/tractest/!svn/ver/97/test1.txt
 END
 test2.txt
 K 25
 svn:wc:ra_dav:version-url
 V 35
-/svn/tractest/!svn/ver/93/test2.txt
+/svn/tractest/!svn/ver/97/test2.txt
 END
 profile.php
 K 25
@@ -25,7 +25,7 @@ user.php
 K 25
 svn:wc:ra_dav:version-url
 V 34
-/svn/tractest/!svn/ver/96/user.php
+/svn/tractest/!svn/ver/98/user.php
 END
 ums.php
 K 25
